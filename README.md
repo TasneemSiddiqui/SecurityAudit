@@ -17,3 +17,4 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
 - <a href="https://github.com/TasneemSiddiqui/SecurityAudit/blob/main/Botium-Toys-Scope-goals-and-risk-assessment-report.rtf"><b>Botium Toys: Scope, goals, and risk assessment report</b></a>
 - <a href=""><b>Control categories</b></a>
 <h3> <a href=""><b>Controls and compliance checklist</b></a></h3>
+[Botium](https://github.com/TasneemSiddiqui/SecurityAudit/blob/main/Botium-Toys-Scope-goals-and-risk-assessment-report.rtf)
