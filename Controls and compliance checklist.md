@@ -1,8 +1,7 @@
 <h1>Controls and compliance checklist</h1>
 
 
-Select “yes” or “no” to answer the question: Does Botium Toys currently have this control in place? 
-
+</br>Select “yes” or “no” to answer the question: Does Botium Toys currently have this control in place? 
 
 <h2>Controls assessment checklist</h2>
 
@@ -25,15 +24,14 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
         X		Fire detection/prevention (fire alarm, sprinkler system, etc.)
 
 
-
-Select “yes” or “no” to answer the question: Does Botium Toys currently adhere to this compliance best practice?
+</br></br>Select “yes” or “no” to answer the question: Does Botium Toys currently adhere to this compliance best practice?
 
 <h2>Compliance checklist</h2>
 
 <h3>Payment Card Industry Data Security Standard (PCI DSS)</h3>
 
 
-	Yes	No	Best practice
+	   Yes	No	Best practice
 
 	        X	Only authorized users have access to customers’ credit card information. 
         	X	Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment.
@@ -43,7 +41,8 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
 
 <h3>General Data Protection Regulation (GDPR)</h3>
 
-	  Yes	No	Best practice
+	   Yes	No	Best practice
+   
 	        X	E.U. customers’ data is kept private/secured.
         X		There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.
 	        X	Ensure data is properly classified and inventoried.
@@ -52,13 +51,11 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
 
 <h3>System and Organizations Controls (SOC type 1, SOC type 2)</h3> 
 
-	Yes	    No	Best practice
+	   Yes	No	Best practice
  
 	        X	User access policies are established.
 	        X	Sensitive data (PII/SPII) is confidential/private.
         X		Data integrity ensures the data is consistent, complete, accurate, and has been validated.
-        	        X	Data is available to individuals authorized to access it.
+        	X	Data is available to individuals authorized to access it.
 
 
-This section is optional and can be used to provide a summary of recommendations to the IT manager regarding which controls and/or compliance best practices Botium Toys needs to implement, based on the risk posed if not implemented in a timely manner.
-Recommendations (optional): In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
